@@ -19,7 +19,7 @@ export default function Footer() {
           <div className="flex justify-center items-center gap-2">
             <p>Source Code:</p>
             <a
-              href="https://github.com/tffm-module/tffm-plus.github.io"
+              href="https://github.com/tffm-module/tffm-plus"
               aria-label="GitHub Repository"
               target="_blank"
               rel="noopener noreferrer"

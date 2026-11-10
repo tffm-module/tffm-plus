@@ -1,6 +1,6 @@
 # TFFM+ Website
 
-🌐 **Live Website:** [https://tffm-module.github.io/tffm-plus.github.io/](https://tffm-module.github.io/tffm-plus.github.io/)
+🌐 **Live Website:** [https://tffm-module.github.io/tffm-plus/](https://tffm-module.github.io/tffm-plus/)
 
 This is the official website for the BMVC 2026 paper **"TFFM+: Topology-Reliable Retinal Artery–Vein Segmentation via Spatially-Aware Differentiable Graph Pruning"**.
 
