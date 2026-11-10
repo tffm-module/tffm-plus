@@ -18,7 +18,7 @@ const VENUE = "BMVC 2026";
 const VENUE_DETAIL = "British Machine Vision Conference · Lancaster, UK · Nov 23–26";
 
 const AUTHORS: Author[] = [
-  { name: "Iftekhar Ahmed", affiliation: 1, profile: "https://iftekhar.vercel.app/" },
+  { name: "Iftekhar Ahmed", affiliation: 1, profile: "https://iftekhar.eu/" },
   {
     name: "Aftar Ahmad Sami",
     affiliation: 2,
@@ -29,9 +29,13 @@ const AUTHORS: Author[] = [
   {
     name: "Shadman Sakib",
     affiliation: 3,
-    profile: "https://www.linkedin.com/in/shadman-sakib15/",
+    profile: "https://sakibshadman.github.io/",
   },
-  { name: "Rashedur Rahman", affiliation: 1 },
+  {
+    name: "Rashedur Rahman",
+    affiliation: 1,
+    profile: "https://iub.ac.bd/faculties/rashed",
+  },
   { name: "Siam Tahsin Bhuiyan", affiliation: 1 },
   { name: "Ashraful Islam", affiliation: 1 },
   { name: "Saadia Binte Alam", affiliation: 1 },
